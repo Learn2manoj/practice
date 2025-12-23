@@ -1,0 +1,6 @@
+s= set()
+n=int(input("enter 18:"))
+n2=input("18:")
+s.add(n)
+s.add(n2)
+print(s)
